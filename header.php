@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wolfpac-Stickers</title>
-    <!-- Vous pouvez ajouter des liens vers des fichiers CSS ici si nécessaire -->
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
     <header>
@@ -12,6 +12,7 @@
         <nav>
             <ul>
                 <li><a href="index.php">Accueil</a></li>
+                <li><a href="aboutme.php">A propos</a></li>
                 <li><a href="commissions.php">Commissions</a></li>
                 <li><a href="contacts.php">Contacts</a></li>
             </ul>
