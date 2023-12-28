@@ -4,11 +4,14 @@ include_once 'header.php';
     <link rel="stylesheet" href="styles.css">
 
     <section class="container flex flex-col">
-        <div class="flex justify-center items-center py-20">
-            <img src="./assets/logo-wolfpac-sticker.png" alt="logo" class="animate__animated animate__flipInX animate__slow">
+        <div class="flex justify-center items-center">
+            <img src="./assets/logo-wolfpac-stickers-no-background.png" alt="logo" class="p-20 w-1/2 h-1/2 animate__animated animate__flipInX animate__slow">
         </div>
-        <h2>Bienvenue sur la page d'accueil</h2>
-        <p>Contenu de la page d'accueil...</p>
+        <div class="flex justify-center items-center">
+            <h2 class="text-3xl">Bienvenue sur Wolfpac-Stickers, le site de stickers en pixel art</h2>
+            
+        </div>
+        
     </section>
 <?php
 include_once 'footer.php';
