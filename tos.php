@@ -1,12 +1,9 @@
 <?php
 include_once 'header.php';
 ?>
-    <section class="max-w-2xl mx-auto mt-8">
+    <section class="max-w-2xl mx-auto mt-8 ">
         <h2 class="text-3xl font-bold mb-4">Afin de prendre commande, veuillez lire et accepter mes CGU (Conditions Générales d'Utilisation)</h2>
-        
-
         <p class="mb-4 text-xl">A lire avant de prendre une commission - Les stickers sont seulement à usage personnel ( pour une utlilisation à visée commerciale , merci de me contacter en privé)</p>
-
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">1 - Me contacter :</h3>
             <p class="text-xl">
@@ -14,8 +11,7 @@ include_once 'header.php';
                 Vous pouvez me parler :<br/>
                 En Français <br/>
                 En Anglais
-            </p>
-            
+            </p>            
         </div> 
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">2 - Bon sens:</h3>
@@ -23,8 +19,7 @@ include_once 'header.php';
                 Merci d'être poli.<br/>
                 Pas de spam<br/>
                 Je me donne le droit de refuser des commissions.
-            </p>
-            
+            </p>            
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">3 - Paiement:</h3>
@@ -32,8 +27,7 @@ include_once 'header.php';
                 Je commence à travailler une fois le paiement effectué.<br/>
                 J'accepte que les paiements via PayPal et virements bancaires.<br/>
                 Les prix ne sont pas négociables.
-            </p>
-            
+            </p>          
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">4 - Les commissions </h3>
@@ -54,8 +48,7 @@ include_once 'header.php';
                 Sprites en taille supérieur à du 32X32.<br/>
                 Réalisme<br/>
                 Background<br/> 
-            </p>
-            
+            </p>       
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">5 - Passage de commande:</h3>
@@ -68,8 +61,7 @@ include_once 'header.php';
                 A noter que vous pouvez commander plusieurs stickers de votre design (attention, cela engendra des frais supplémentaires).<br/>
                 Des frais pourront s'appliquer, en cas de demandes de changement majeures.<br/>
                 Une fois le/les sticker/s fini/s, je vous envoie la commande. 
-            </p>
-                 
+            </p>                
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">6 - La Liste d'attente:</h3>
@@ -85,8 +77,6 @@ include_once 'header.php';
                 Il n'y a pas de remboursements en général.
                 Je ne rembourse quelqu'un seulement si je ne suis pas en mesure de finir le design ou dans des cas particuliers (examens, problèmes matériels).
             </p>
-            
-
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">8 - Livraison:</h3>
@@ -95,16 +85,14 @@ include_once 'header.php';
                 La durée d'attente pour un projet démarrera en fonction de votre place dans ma liste d'attente, post-paiement.<br/>
                 Aucune deadline : je fais en fonction de mes disponibilités.<br/>
                 Pour des deadlines particulières (anniversaire, noël), merci de me le mentionner, savoir si c'est réalisable et si cela peut couter un supplément.
-            </p>
-            
+            </p>            
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">9 - A ne pas faire :</h3>
             <p class="text-xl">
                 Faire des modifications sur mon dessin sans autorisation au préalable.<br/>
                 Faire de la revente de mon design.  
-            </p>
-            
+            </p>           
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">10 -  Extras :</h3>
@@ -114,8 +102,7 @@ include_once 'header.php';
                 Si le sticker est sensé être une surprise, merci de me l'indiquer.<br/>
                 N'hésitez pas à me donner vos avis.<br/>
                 Si vous avez des questions, n'hésitez pas à me contacter !
-            </p>
-            
+            </p>           
         </div>
     </section>
 <?php
