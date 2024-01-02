@@ -1,7 +1,10 @@
 <?php
 include_once 'header.php';
 ?>
-    <section class="max-w-2xl mx-auto mt-8 ">
+    <section class="bg-indigo-300">
+        <div class="max-w-2xl mx-auto py-5">
+
+        
         <h2 class="text-3xl font-bold mb-4">Afin de prendre commande, veuillez lire et accepter mes CGU (Conditions Générales d'Utilisation)</h2>
         <p class="mb-4 text-xl">A lire avant de prendre une commission - Les stickers sont seulement à usage personnel ( pour une utlilisation à visée commerciale , merci de me contacter en privé)</p>
         <div class="mb-8">
@@ -103,6 +106,7 @@ include_once 'header.php';
                 N'hésitez pas à me donner vos avis.<br/>
                 Si vous avez des questions, n'hésitez pas à me contacter !
             </p>           
+        </div>
         </div>
     </section>
 <?php
