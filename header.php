@@ -24,7 +24,7 @@
     <div class="container mx-auto flex justify-evenly items-center">
         <ul class="flex space-x-4">
             <li><a href="index.php" class="text-slate-500 hover:text-gray-300">Accueil</a></li>
-            <li><a href="aboutme.php" class="text-slate-500 hover:text-gray-300">A propos</a></li>
+            <li><a href="tos.php" class="text-slate-500 hover:text-gray-300">CGU/TOS</a></li>
         </ul>
         <h1 class="text-slate-500 text-3xl font-bold">Wolfpac Stickers</h1>
         <ul class="flex space-x-4">
