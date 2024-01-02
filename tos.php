@@ -20,18 +20,18 @@ include_once 'header.php';
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">2 - Bon sens:</h3>
             <p class="text-xl">
-                Merci d'être poli.
-                Pas de spam
-                Je me donne le droit de refuser des commissions
+                Merci d'être poli.<br/>
+                Pas de spam<br/>
+                Je me donne le droit de refuser des commissions.
             </p>
             
         </div>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">3 - Paiement:</h3>
             <p class="text-xl">
-                Je commence à travailler une fois le paiement effectué.
-                J'accepte que les paiements via PayPal et virements bancaires
-                Les prix sont non négociables.
+                Je commence à travailler une fois le paiement effectué.<br/>
+                J'accepte que les paiements via PayPal et virements bancaires.<br/>
+                Les prix ne sont pas négociables.
             </p>
             
         </div>
@@ -60,13 +60,13 @@ include_once 'header.php';
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">5 - Passage de commande:</h3>
             <p class="text-xl">
-               Contactez-moi afin pouvoir prendre une commission (dans la limite des places disponibles).
-                Payement sur Paypal ou virement bancaire.
-                Envoyez moi une ou des références, sinon décrivez moi au mieux ce que vous désirez et donnez le plus de détails possible afin que de correspondre à votre demande.
-                Validation du premier design. Vous pouvez signaler autant de changement que vous le souhaitez sans frais additionnels. Je serai ravi de correspondre au plus près à vôtre requête.
-                Je vous envoie une première version du design complété .
-                A noter que vous pouvez commander plusieurs stickers de votre design (attention, cela engendra des frais supplémentaires).
-                Des frais pourront s'appliquer, en cas de demandes de changement majeures.
+               Contactez-moi afin pouvoir prendre une commission (dans la limite des places disponibles).<br/>
+                Payement sur Paypal ou virement bancaire.<br/>
+                Envoyez moi une ou des références, sinon décrivez moi au mieux ce que vous désirez et donnez le plus de détails possible afin que de correspondre à votre demande.<br/>
+                Validation du premier design. Vous pouvez signaler autant de changement que vous le souhaitez sans frais additionnels. Je serai ravi de correspondre au plus près à vôtre requête.<br/>
+                Je vous envoie une première version du design complété .<br/>
+                A noter que vous pouvez commander plusieurs stickers de votre design (attention, cela engendra des frais supplémentaires).<br/>
+                Des frais pourront s'appliquer, en cas de demandes de changement majeures.<br/>
                 Une fois le/les sticker/s fini/s, je vous envoie la commande. 
             </p>
                  
@@ -91,9 +91,9 @@ include_once 'header.php';
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">8 - Livraison:</h3>
             <p class="text-xl">
-                Je vous tiendrais au courant de mon avancement autant que possible!
-                La durée d'attente pour un projet démarrera en fonction de votre place dans ma liste d'attente, post-paiement.
-                Aucune deadline : je fais en fonction de mes disponibilités.
+                Je vous tiendrais au courant de mon avancement autant que possible!<br/>
+                La durée d'attente pour un projet démarrera en fonction de votre place dans ma liste d'attente, post-paiement.<br/>
+                Aucune deadline : je fais en fonction de mes disponibilités.<br/>
                 Pour des deadlines particulières (anniversaire, noël), merci de me le mentionner, savoir si c'est réalisable et si cela peut couter un supplément.
             </p>
             
@@ -101,7 +101,7 @@ include_once 'header.php';
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">9 - A ne pas faire :</h3>
             <p class="text-xl">
-                Faire des modifications sur mon dessin sans autorisation au préalable.
+                Faire des modifications sur mon dessin sans autorisation au préalable.<br/>
                 Faire de la revente de mon design.  
             </p>
             
@@ -109,10 +109,10 @@ include_once 'header.php';
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">10 -  Extras :</h3>
             <p class="text-xl">
-                N'oubliez pas de me créditer une fois votre commande recu.
-                Je reposterai les designs sur mes réseaux sociaux.
-                Si le sticker est sensé être une surprise, merci de me l'indiquer.
-                N'hésitez pas à me donner vos avis.
+                N'oubliez pas de me créditer une fois votre commande recu.<br/>
+                Je reposterai les designs sur mes réseaux sociaux.<br/>
+                Si le sticker est sensé être une surprise, merci de me l'indiquer.<br/>
+                N'hésitez pas à me donner vos avis.<br/>
                 Si vous avez des questions, n'hésitez pas à me contacter !
             </p>
             
