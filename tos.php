@@ -3,10 +3,13 @@ include_once 'header.php';
 ?>
     <section class="bg-indigo-300">
         <div class="max-w-2xl mx-auto py-5">
-
+            <div class=" flex justify-center items-center">
+                <img src="./assets/cgu-sprite.png" alt="logo" class="flex justify-center items-center w-9/12 md:w-1/2 lg:w-7/12 xl:w-12/20 h-auto animate__animated animate__flipInX animate__slow">
+            </div>
+            
         
-        <h2 class="text-3xl font-bold mb-4">Afin de prendre commande, veuillez lire et accepter mes CGU (Conditions Générales d'Utilisation)</h2>
-        <p class="mb-4 text-xl">A lire avant de prendre une commission - Les stickers sont seulement à usage personnel ( pour une utlilisation à visée commerciale , merci de me contacter en privé)</p>
+            <h2 class="text-3xl font-bold mb-4">Afin de prendre commande, veuillez lire et accepter mes CGU (Conditions Générales d'Utilisation)</h2>
+            <p class="mb-4 text-xl">A lire avant de prendre une commission - Les stickers sont seulement à usage personnel ( pour une utlilisation à visée commerciale , merci de me contacter en privé)</p>
         <div class="mb-8">
             <h3 class="text-2xl font-bold mb-4">1 - Me contacter :</h3>
             <p class="text-xl">
