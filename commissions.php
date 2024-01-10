@@ -50,41 +50,44 @@ include_once 'header.php';
         </section>
 
         <section id="portfolio" class=" mx-auto py-5">
-        <div>
-            <h2 class="text-3xl font-bold mb-4 text-center">Zone portfolio</h2>
-            <p class="text-2xl text-center">Cette partie concerne mes designs et futurs designs (WIP)</p>
-        </div>
+            <div class=" flex justify-center items-center">
+                <img src="./assets/portfolio-sprite.png" alt="logo" class="flex justify-center items-center w-9/12 md:w-1/2 lg:w-7/12 xl:w-12/20 h-auto animate__animated animate__flipInX animate__slow">
+            </div>
+            <div>
+                <h2 class="text-3xl font-bold mb-4 text-center">Zone portfolio</h2>
+                <p class="text-2xl text-center">Cette partie concerne mes designs et futurs designs (WIP)</p>
+            </div>
 
-        <div class="flex flex-wrap justify-center items-center">
-            <?php
-            // Chemin du dossier portfolio
-            $portfolioFolder = './assets/portfolio/';
-
-            // Obtenez la liste des fichiers dans le dossier portfolio
-            $portfolioImages = glob($portfolioFolder . '*.{jpg,png,gif}', GLOB_BRACE);
-
-            // Divisez les images en groupes de 6
-            $imageGroups = array_chunk($portfolioImages, 6);
-
-            // Affichez les images par groupe
-            foreach ($imageGroups as $group) {
-                ?>
-                <div class="flex flex-wrap justify-center items-center">
-                    <?php
-                    foreach ($group as $image) {
-                        ?>
-                        <div class="max-w-sm mx-auto  overflow-hidden  my-4 px-2">
-                            <img class="w-full" src="<?php echo $image; ?>" alt="Portfolio Image">
-                        </div>
-                        <?php
-                    }
-                    ?>
-                </div>
+            <div class="flex flex-wrap justify-center items-center">
                 <?php
-            }
-            ?>
-        </div>
-    </section>
+                // Chemin du dossier portfolio
+                $portfolioFolder = './assets/portfolio/';
+
+                // Obtenez la liste des fichiers dans le dossier portfolio
+                $portfolioImages = glob($portfolioFolder . '*.{jpg,png,gif}', GLOB_BRACE);
+
+                // Divisez les images en groupes de 6
+                $imageGroups = array_chunk($portfolioImages, 6);
+
+                // Affichez les images par groupe
+                foreach ($imageGroups as $group) {
+                    ?>
+                    <div class="flex flex-wrap justify-center items-center">
+                        <?php
+                        foreach ($group as $image) {
+                            ?>
+                            <div class="max-w-sm mx-auto  overflow-hidden  my-4 px-2">
+                                <img class="w-full" src="<?php echo $image; ?>" alt="Portfolio Image">
+                            </div>
+                            <?php
+                        }
+                        ?>
+                    </div>
+                    <?php
+                }
+                ?>
+            </div>
+        </section>
 
         
 </div>
