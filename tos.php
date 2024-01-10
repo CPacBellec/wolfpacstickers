@@ -1,7 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-    <section class="bg-indigo-300">
+    <section class="bg-indigo-300 min-h-screen">
         <div class="max-w-2xl mx-auto py-5">
             <div class=" flex justify-center items-center">
                 <img src="./assets/cgu-sprite.png" alt="logo" class="flex justify-center items-center w-9/12 md:w-1/2 lg:w-7/12 xl:w-12/20 h-auto animate__animated animate__flipInX animate__slow">

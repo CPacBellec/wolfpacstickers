@@ -1,7 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-    <div class="bg-indigo-300">
+    <div class="bg-indigo-300 min-h-screen">
         <div class=" flex justify-center items-center">
             <img src="./assets/commission-sprite.png" alt="logo" class="flex justify-center items-center w-9/12 md:w-1/2 lg:w-7/12 xl:w-12/20 h-auto animate__animated animate__flipInX animate__slow">
         </div>
