@@ -11,17 +11,17 @@ include_once 'header.php';
             <p class="text-center text-2xl mb-4">Vous trouverez ici mes réseaux sociaux où vous pouvez me contacter et voir mes actualités.</p>
             <div class="flex flex-col space-y-4">
             <!-- Twitter -->
-            <a href="https://twitter.com/votre_nom_twitter" target="_blank" class="flex items-center justify-center px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-700">
+            <a href="https://twitter.com/WolfpacStickers" target="_blank" class="flex items-center justify-center px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-700">
                 <i class="fab fa-twitter mr-2"></i>
                 Twitter / X
             </a>
             <!-- Telegram -->
-            <a href="https://t.me/votre_nom_telegram" target="_blank" class="flex items-center justify-center px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-700">
+            <a href="https://t.me/Sinisterw0lf" target="_blank" class="flex items-center justify-center px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-700">
                 <i class="fab fa-telegram-plane mr-2"></i>
                 Telegram
             </a>
             <!-- Instagram -->
-            <a href="https://www.instagram.com/votre_nom_instagram" target="_blank" class="flex items-center justify-center px-4 py-2 bg-pink-500 text-white rounded-md hover:bg-pink-700">
+            <a href="https://www.instagram.com/wolfpac_stickers" target="_blank" class="flex items-center justify-center px-4 py-2 bg-pink-500 text-white rounded-md hover:bg-pink-700">
                 <i class="fab fa-instagram mr-2"></i>
                 Instagram
             </a>
