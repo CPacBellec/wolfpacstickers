@@ -26,7 +26,7 @@ include_once 'header.php';
                 </p>            
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">3 - Paiement:</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">3 - Paiement</h3>
                 <p class="text-xl">
                     Je commence à travailler une fois le paiement effectué.<br/>
                     J'accepte que les paiements via PayPal et virements bancaires.<br/>
@@ -55,7 +55,7 @@ include_once 'header.php';
                 </p>       
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">5 - Passage de commande:</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">5 - Passage de commande</h3>
                 <p class="text-xl">
                 Contactez-moi afin pouvoir prendre une commission (dans la limite des places disponibles).<br/>
                     Payement sur Paypal ou virement bancaire.<br/>
@@ -68,7 +68,7 @@ include_once 'header.php';
                 </p>                
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">6 - La Liste d'attente:</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">6 - La Liste d'attente</h3>
                 <p class="text-xl">
                     J'y place sur cette liste toutes les personnes potentiellement intéressées, la commission étant officiellement prise en compte lorsque le payement est terminé.
                     Etre en liste d'attente ne vous pousse pas à vous y engager. Merci de me prévenir en avance si vous n'êtes plus intéressé, si vous ne pouvez pas payer ou si vous repoussez vôtre tour.
@@ -76,14 +76,14 @@ include_once 'header.php';
                 
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">7 - Annulations:</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">7 - Annulations</h3>
                 <p class="text-xl">
                     Il n'y a pas de remboursements en général.
                     Je ne rembourse quelqu'un seulement si je ne suis pas en mesure de finir le design ou dans des cas particuliers (examens, problèmes matériels).
                 </p>
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">8 - Livraison:</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">8 - Livraison</h3>
                 <p class="text-xl">
                     Je vous tiendrais au courant de mon avancement autant que possible!<br/>
                     La durée d'attente pour un projet démarrera en fonction de votre place dans ma liste d'attente, post-paiement.<br/>
@@ -92,14 +92,14 @@ include_once 'header.php';
                 </p>            
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">9 - A ne pas faire :</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">9 - A ne pas faire</h3>
                 <p class="text-xl">
                     Faire des modifications sur mon dessin sans autorisation au préalable.<br/>
                     Faire de la revente de mon design.  
                 </p>           
             </div>
             <div class="mb-8">
-                <h3 class="text-2xl font-bold mb-4 text-center">10 -  Extras :</h3>
+                <h3 class="text-2xl font-bold mb-4 text-center">10 -  Extras</h3>
                 <p class="text-xl">
                     N'oubliez pas de me créditer une fois votre commande recu.<br/>
                     Je reposterai les designs sur mes réseaux sociaux en vous créditant pour la commission.<br/>
