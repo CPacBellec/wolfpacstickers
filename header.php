@@ -22,7 +22,7 @@
 </head>
 <body class="flex flex-col min-h-screen">
     <header>
-        <nav class="bg-black p-4">
+        <nav class="bg-black p-8">
             <div class="container mx-auto flex flex-col sm:flex-row justify-between items-center">
                 <!-- Logo et Bouton Hamburger dans un conteneur flexible -->
                 <div class="flex items-center gap-10">
@@ -39,10 +39,10 @@
 
                 <!-- Menu principal -->
                 <ul id="mobile-menu" class="hidden sm:flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-                    <li><a href="index.php" class="text-slate-500 hover:text-gray-300">Accueil</a></li>
-                    <li><a href="tos.php" class="text-slate-500 hover:text-gray-300">CGU</a></li>
-                    <li><a href="commissions.php" class="text-slate-500 hover:text-gray-300">Commissions</a></li>
-                    <li><a href="contacts.php" class="text-slate-500 hover:text-gray-300">Contacts</a></li>
+                    <li><a href="index.php" class="text-2xl text-slate-500 hover:text-gray-300">Accueil</a></li>
+                    <li><a href="tos.php" class="text-2xl text-slate-500 hover:text-gray-300">CGU</a></li>
+                    <li><a href="commissions.php" class="text-2xl text-slate-500 hover:text-gray-300">Commissions</a></li>
+                    <li><a href="contacts.php" class="text-2xl text-slate-500 hover:text-gray-300">Contacts</a></li>
                 </ul>
             </div>
         </nav>
