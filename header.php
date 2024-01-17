@@ -21,19 +21,32 @@
     </style>
 </head>
 <body class="flex flex-col min-h-screen">
-    <header> 
-    <nav class="bg-black p-4">
-    <div class="container mx-auto flex justify-evenly items-center">
-        <ul class="flex space-x-4">
-            <li><a href="index.php" class="text-slate-500 hover:text-gray-300">Accueil</a></li>
-            <li><a href="tos.php" class="text-slate-500 hover:text-gray-300">CGU</a></li>
-        </ul>
-        <h1 class="text-slate-500 text-3xl font-bold">Wolfpac Stickers</h1>
-        <ul class="flex space-x-4">
-            <li><a href="commissions.php" class="text-slate-500 hover:text-gray-300">Commissions</a></li>
-            <li><a href="contacts.php" class="text-slate-500 hover:text-gray-300">Contacts</a></li>
-        </ul>
-    </div>
-</nav>
+    <header>
+        <nav class="bg-black p-4">
+            <div class="container mx-auto flex flex-col sm:flex-row justify-between items-center">
+                <!-- Logo et Bouton Hamburger dans un conteneur flexible -->
+                <div class="flex items-center gap-10">
+                    <!-- Logo -->
+                    <h1 class="text-center text-slate-500 text-3xl font-bold  mb-4 sm:mb-0">Wolfpac Stickers</h1>
+
+                    <!-- Bouton Hamburger -->
+                    <button id="mobile-menu-button" class="block sm:hidden text-white ml-2">
+                        <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                        </svg>
+                    </button>
+                </div>
+
+                <!-- Menu principal -->
+                <ul id="mobile-menu" class="hidden sm:flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
+                    <li><a href="index.php" class="text-slate-500 hover:text-gray-300">Accueil</a></li>
+                    <li><a href="tos.php" class="text-slate-500 hover:text-gray-300">CGU</a></li>
+                    <li><a href="commissions.php" class="text-slate-500 hover:text-gray-300">Commissions</a></li>
+                    <li><a href="contacts.php" class="text-slate-500 hover:text-gray-300">Contacts</a></li>
+                </ul>
+            </div>
+        </nav>
     </header>
+
+
     <main>
