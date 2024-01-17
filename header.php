@@ -27,7 +27,10 @@
                 <!-- Logo et Bouton Hamburger dans un conteneur flexible -->
                 <div class="flex items-center gap-10">
                     <!-- Logo -->
-                    <h1 class="text-center text-slate-500 text-3xl font-bold  mb-4 sm:mb-0">Wolfpac Stickers</h1>
+                    <a href="index.php">
+                        <h1 class="text-center text-slate-500 text-3xl font-bold  mb-4 sm:mb-0">Wolfpac Stickers</h1>
+                    </a>
+                    
 
                     <!-- Bouton Hamburger -->
                     <button id="mobile-menu-button" class="block sm:hidden text-white ml-2">
